@@ -1,0 +1,1 @@
+import React, {FC} from 'react'export const Profile: FC<PropsType> = (props) => {   return (      <>         Profile Page      </>   )}type PropsType = {}

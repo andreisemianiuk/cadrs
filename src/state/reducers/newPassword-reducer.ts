@@ -1,0 +1,1 @@
+import {createSlice} from '@reduxjs/toolkit'const slice = createSlice({   name: 'registry',   initialState: {},   reducers: {},   extraReducers: builder => {   }})export const newPasswordReducer = slice.reducer

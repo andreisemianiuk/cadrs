@@ -1,0 +1,1 @@
+import React, {FC} from 'react'export const NewPassword: FC<PropsType> = (props)=>{   return(      <>         <div>NewPassword</div>      </>   )}type PropsType={}
