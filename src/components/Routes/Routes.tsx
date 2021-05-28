@@ -30,7 +30,6 @@ const Routes: React.FC = () => {
          <Route path={TEST_PATH} render={() => <SuperComponents/>}/>
          <Route path={'/404'} render={() => <div>Error 404: Page not found!</div>}/>
 
-
       </>
    )
 }

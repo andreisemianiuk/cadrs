@@ -4,7 +4,7 @@ import App from './components/App/App'
 import reportWebVitals from './reportWebVitals'
 import {Provider} from 'react-redux'
 import {store} from './state/store'
-import {BrowserRouter, HashRouter} from 'react-router-dom'
+import {BrowserRouter} from 'react-router-dom'
 
 ReactDOM.render(
    <React.StrictMode>
